@@ -57,6 +57,21 @@ steps will be taken
 # Stress vs Strain, Total deformation
 ![image](https://github.com/user-attachments/assets/2036c191-883e-4694-965e-d5c1eefb1483)
 
-[Technical PAPER  PRESENTATION.pdf](https://github.com/user-attachments/files/19145422/Technical.PAPER.PRESENTATION.pdf)
 
+![Technical PAPER PRESENTATION_page-0001](https://github.com/user-attachments/assets/65f10823-fa0c-4954-ac46-8d45e22908e6)
+
+
+![Technical PAPER PRESENTATION_page-0002](https://github.com/user-attachments/assets/d6312385-bd08-4bfd-bebd-1663dbd3b307)
+
+![Technical PAPER PRESENTATION_page-0003](https://github.com/user-attachments/assets/90f1a75c-2af6-4531-a911-4ad37a4eb113)
+
+![Technical PAPER PRESENTATION_page-0004](https://github.com/user-attachments/assets/5e418e68-21f7-4dd8-b4c6-b7dfdefaebed)
+![Technical PAPER PRESENTATION_page-0005](https://github.com/user-attachments/assets/dacb1c29-f602-4c46-b1a0-8d382a715189)
+
+
+![Technical PAPER PRESENTATION_page-0006](https://github.com/user-attachments/assets/ae6616df-eba5-4145-9768-d8421095c74b)
+
+![Technical PAPER PRESENTATION_page-0007](https://github.com/user-attachments/assets/576f1a5c-aa55-43af-b2ad-7799792015ca)
+
+![Technical PAPER PRESENTATION_page-0008](https://github.com/user-attachments/assets/e4d739d9-7b1e-465e-9065-cb6052173e01)
 
