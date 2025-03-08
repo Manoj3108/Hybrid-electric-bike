@@ -1,8 +1,7 @@
 # Hybrid-electric-bike
  Design, Fabrication and Analysis of Solar and Wind Hybrid Electric Bike
 
-SCOPE OF PROJECT WORK
-PROBLEM DEFINITION:
+# SCOPE OF PROJECT WORK
 ➢ More than 80% of the world’s sale for gasoline motorcycle is connected in the
 Asian region.
 ➢ In the modern days, the primary concern of government is to find out a way by
@@ -15,7 +14,9 @@ Based on the literature survey in the previous section, there is a demand for a 
 and fabrication of an Electric Bike which is capable of delivering High Speeds and
 moderate load carrying capacity and charged with renewable source of energy like
 Solar or Wind energy.
-OBJECTIVE:
+
+
+# OBJECTIVE:
 Following are the objectives defined in the project
 1. To understand the design concepts of electric bikes
 2. To design the complete electric bike as per the standards available.
@@ -24,7 +25,7 @@ Following are the objectives defined in the project
 5. Setting up of a charging point to charge the electric bike using solar energy or
 wind energy.
 
-POSSIBLE OUTCOME
+## POSSIBLE OUTCOME
 The designed and fabricated Electric Bike may deliver better performance and
 economical when compared to the available vehicles in the market.
 The objective of a comfortable, compact, high speed and efficient bike can be achieved
@@ -50,7 +51,8 @@ implemented.
 steps will be taken
 
 
-
+# Isometric View of Electric Bike
 ![image](https://github.com/user-attachments/assets/b5db2c36-c774-48e3-9504-f934960788be)
-	Isometric View of Electric Bike
+
+# Stress vs Strain, Total deformation
 ![image](https://github.com/user-attachments/assets/2036c191-883e-4694-965e-d5c1eefb1483)
