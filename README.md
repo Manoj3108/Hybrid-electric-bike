@@ -56,3 +56,7 @@ steps will be taken
 
 # Stress vs Strain, Total deformation
 ![image](https://github.com/user-attachments/assets/2036c191-883e-4694-965e-d5c1eefb1483)
+
+[Technical PAPER  PRESENTATION.pdf](https://github.com/user-attachments/files/19145422/Technical.PAPER.PRESENTATION.pdf)
+
+
